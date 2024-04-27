@@ -26,6 +26,15 @@ To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
     <p>d. Configure the file path and other settings for the Excel export.
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
+
+
+
+
+
+
+
+    
+
 ### Output:
 ![image](https://github.com/Prethiveerajan/WDM_EXP10/assets/94233064/a39295e5-e35e-484b-9b32-d1a25de91fdf)
 
